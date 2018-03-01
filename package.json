@@ -1,0 +1,33 @@
+{
+  "name": "yuliee111",
+  "version": "0.0.1",
+  "description": "\n    A cordova plugin that provides the functionality to convert image to base64.\n  ",
+  "cordova": {
+    "id": "com.autobots.cordova.imageBase64",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliee111/cordova-imageBase64.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuliee111/cordova-imageBase64/issues"
+  },
+  "homepage": "https://github.com/yuliee111/cordova-imageBase64#readme"
+}
