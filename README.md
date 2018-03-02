@@ -1,11 +1,6 @@
 # cordova-imageBase64
 A cordova plugin that provides the functionality to convert image to base64.
 
-# Installing the plugin
-
-```shell
-cordova plugin add https://github.com/autobotsrocks/cordova-imageBase64
-```
 
 # Usage
 
